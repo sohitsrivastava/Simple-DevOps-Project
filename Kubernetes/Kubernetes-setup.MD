@@ -2,6 +2,8 @@
 
 
 1. Create Ubuntu EC2 instance
+1. update apt
+   ```apt-get update```
 1. install AWSCLI
    ```sh
     curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
